@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [saluda](docu/saludo.md)
 
-[mate](m.css math _ m.css.html)
+[mate](m.css_math_m.css.html)
